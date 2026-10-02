@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+ml/.venv/
+ml/runs/
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
