@@ -67,4 +67,3 @@ flutter run
 ## Importante
 La versión inicial detecta la ubicación de la placa; no interpreta sus caracteres. Para reconocer algo como `ABC123`, posteriormente se puede añadir OCR después de recortar la placa detectada.
 
-Si el computador no tiene GPU NVIDIA, el entrenamiento puede hacerse en Google Colab y luego copiar `best.pt` al proyecto.
